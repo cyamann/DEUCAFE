@@ -1,3 +1,3 @@
 # DEUCAFE
 
-This is an simulation about the semaphores.
+This is an simulation about multi-threads, mutexes and semaphores.
